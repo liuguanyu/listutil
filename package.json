@@ -1,0 +1,19 @@
+{
+  "name": "listutil",
+  "version": "1.0.0",
+  "description": "总结一些列表常用方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuguanyu/listutil.git"
+  },
+  "author": "liuguanyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuguanyu/listutil/issues"
+  },
+  "homepage": "https://github.com/liuguanyu/listutil#readme"
+}
